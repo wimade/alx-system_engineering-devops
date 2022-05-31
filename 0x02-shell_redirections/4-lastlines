@@ -1,2 +1,2 @@
 #!/bin/bash
-#!/bin/bashtail -10 /etc/passd
+#!/bin/bash tail -10 /etc/passd
